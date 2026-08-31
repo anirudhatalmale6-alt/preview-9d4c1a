@@ -1,0 +1,3 @@
+# Private preview. Every page is passphrase-locked and marked noindex.
+User-agent: *
+Allow: /
